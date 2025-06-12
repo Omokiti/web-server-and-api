@@ -1,0 +1,35 @@
+[ 
+{
+"name":"skirt",
+"price":2000,
+"size":"small",
+ "id":  1
+},
+
+{
+ "name":"shoe",
+ "price":3000,
+ "size":"meduim",
+ "id":2 
+},
+
+{
+ "name":"wrist watch",
+ "price":5000,
+ "size":"small",
+ "id":3   
+},
+{
+"name":"earrings",
+"price":2000,
+"size":"large",
+"id":4
+},
+{
+"name":"shoe",
+"price":8000,
+"size":"large",
+"id":5
+    }
+
+]
